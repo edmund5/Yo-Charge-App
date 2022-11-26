@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/09/06 16:29:10.000.500,=C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/09/06 16:29:56.000.513,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Edmund's Projects\EFIVE R&amp;D\Mobile\Yo Charge_DXE6\MainUnit.fmx</Transaction>
+    <Transaction>2014/09/06 16:29:56.000.513,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Edmund's Projects\EFIVE R&amp;D\Mobile\Yo Charge_DXE6\MainUnit.pas</Transaction>
+    <Transaction>2014/09/06 16:30:04.000.652,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Edmund's Projects\EFIVE R&amp;D\Mobile\Yo Charge_DXE6\YoCharge.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
+	<ActiveMobileDevice>
+		<Pedmund5 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
