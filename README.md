@@ -12,7 +12,3 @@ Yo Charge is an android app that sends you an alert (Yo) when your phone battery
 
 ### Where can I download the app?
 The app is no longer available for download since 2015 💀
-
-### Programming language used in this project:
-
-- Delphi XE6 / Pascal
